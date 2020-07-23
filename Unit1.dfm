@@ -19,9 +19,10 @@ object Form1: TForm1
     Top = 16
     Width = 180
     Height = 33
+    Alignment = taCenter
     AutoSize = False
-    Caption = '= Error-1 ='
-    Color = clYellow
+    Caption = 'Error-1 - fixed'
+    Color = clLime
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -21
