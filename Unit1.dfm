@@ -148,4 +148,12 @@ object Form1: TForm1
     TabOrder = 3
     Text = '= FEATURE 4 ='
   end
+  object Edit5: TEdit
+    Left = 168
+    Top = 216
+    Width = 121
+    Height = 21
+    TabOrder = 4
+    Text = '= FEATURE 5 ='
+  end
 end

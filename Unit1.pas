@@ -18,6 +18,7 @@ type
     Edit2: TEdit;
     Edit3: TEdit;
     Edit4: TEdit;
+    Edit5: TEdit;
   private
     { Private declarations }
   public
