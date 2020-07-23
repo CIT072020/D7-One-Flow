@@ -22,7 +22,7 @@ object Form1: TForm1
     Alignment = taCenter
     AutoSize = False
     Caption = 'Error-1 - fixed'
-    Color = clYellow
+    Color = clLime
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -21
